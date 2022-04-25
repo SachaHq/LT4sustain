@@ -1,0 +1,16 @@
+title: "Low-Tech For Sustain"
+author: "LT4Sustain"
+description: "LT4Sustain is an Erasmus+ funded transnational project, that responds to the increasing awareness of society and youth in particular regarding ecological and social justice challenges, using a Low-Tech paradigm"
+email: sacha.hodencq@g2elab.grenoble-inp.fr
+contact: sacha.hodencq@g2elab.grenoble-inp.fr
+show_excerpts: false
+future: true
+
+url: "https://www.lt4sustain.eu"
+baseurl: ""
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
